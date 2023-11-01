@@ -1,5 +1,8 @@
+import java.util.Arrays;
+
 public class C {
     public static void main(String[] args) {
+        System.out.println("The prodided arguments are:" +Arrays.toString(args));
         String[] treasureChest = {"Book", "Quill", "Gold",
                 "Quill", "Document", "Silver", "Gold",
                 "Book", "Spoon", "Silver", "Gold"};
