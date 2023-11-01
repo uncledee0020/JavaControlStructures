@@ -1,4 +1,4 @@
-public class C {
+public class ForLoop {
     public static void main(String[] args) {
         String[] treasureChest = {"Book", "Quill", "Gold",
                 "Quill", "Document", "Silver", "Gold",
